@@ -89,3 +89,5 @@ fi
 
 - Monitor the machine to make sure that the security group is properly configured i.e., don't let the HTTPS port open outside of during renewal.
 
+- Use `DNS-01` domain validation method to eliminate the need for opening up the security group
+
